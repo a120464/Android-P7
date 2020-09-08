@@ -36,7 +36,7 @@
 
 有任何问题，欢迎一起学习交流。
 
-**入口：**点击链接加入群聊【移动架构师预备营①】：https://jq.qq.com/?_wv=1027&k=rAxZOxWW(https://jq.qq.com/?_wv=1027&k=rAxZOxWW)
+**入口：点击链接加入群聊【移动架构师预备营①】：https://jq.qq.com/?_wv=1027&k=rAxZOxWW
 
 ## 1.【阿里P7级全套高级学习视频】七大专题：
 
@@ -101,8 +101,6 @@ UI这块知识是现今使用者最多的。当年火爆一时的Android入门�
 
 
 ## 资料获取：
-
-![Android移动互联网群聊二维码.png](http://chuantu.xyz/t6/740/1599554079x1033347913.png)
-
+http://chuantu.xyz/t6/740/1599554079x1033347913.png
 
 **Android架构师之路很漫长，一起共勉吧！**
