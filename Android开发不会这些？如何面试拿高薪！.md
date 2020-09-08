@@ -101,6 +101,6 @@ UI这块知识是现今使用者最多的。当年火爆一时的Android入门�
 
 
 ## 资料获取：
-http://chuantu.xyz/t6/740/1599554079x1033347913.png
+![Android移动互联网群聊二维码.png](http://chuantu.xyz/t6/740/1599554079x1033347913.png)
 
 **Android架构师之路很漫长，一起共勉吧！**
