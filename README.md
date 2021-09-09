@@ -4,10 +4,7 @@
 
 **因此收集整理了一份《Android移动开发全套学习资料》送给大家，初衷也很简单，就是希望能够帮助到想自学提升又不知道该从何学起的朋友，同时减轻大家的负担。** 
 
-![输入图片说明](https://codechina.csdn.net/m0_60958482/android_p7/-/raw/master/%E5%9B%BE%E7%89%87%E9%99%84%E4%BB%B6/%E9%80%82%E5%90%88%E4%BA%BA%E7%BE%A4.png "适合人群")
-![输入图片说明](https://codechina.csdn.net/m0_60958482/android_p7/-/raw/master/%E5%9B%BE%E7%89%87%E9%99%84%E4%BB%B6/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.png "学习笔记")
-![输入图片说明](https://codechina.csdn.net/m0_60958482/android_p7/-/raw/master/%E5%9B%BE%E7%89%87%E9%99%84%E4%BB%B6/%E7%9B%AE%E5%BD%95%E9%A2%84%E8%A7%88.png "目录预览")
-![输入图片说明](https://codechina.csdn.net/m0_60958482/android_p7/-/raw/master/%E5%9B%BE%E7%89%87%E9%99%84%E4%BB%B6/%E8%AE%B2%E8%A7%A3%E8%A7%86%E9%A2%91.png "讲解视频")
+![适合人群.png](https://img12.360buyimg.com/ddimg/jfs/t1/204546/24/5857/1422928/613989e0E5580edfb/5f3137e912be1909.png)
 
 **由于文件比较大，这里只是将部分目录截图出来，每个节点里面都包含面试题、学习笔记、源码、实战项目、讲解视频！**
 
