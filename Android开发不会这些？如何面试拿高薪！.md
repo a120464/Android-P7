@@ -93,8 +93,8 @@ UI这块知识是现今使用者最多的。当年火爆一时的Android入门�
 
 
 ## 资料获取：
-**赶紧扫描下方微信二维码，免费领取吧！（备注：安卓）**
+**如果你觉得这些内容对你有帮助，可以添加我微信免费领取：vip204888 （备注：Android）**
 
-[![63Yf0A.jpg](https://s3.ax1x.com/2021/03/09/63Yf0A.jpg)](https://imgtu.com/i/63Yf0A)
+![](https://ali1024.coding.net/p/P7/d/Android/git/raw/master/%E5%9B%BE%E7%89%87%E9%99%84%E4%BB%B6/%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81.jpeg)
 
 **Android架构师之路很漫长，一起共勉吧！**
